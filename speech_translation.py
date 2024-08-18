@@ -131,4 +131,3 @@ while True:
     # Exit if user wants to
     if input("Type 'exit' to stop or press Enter to continue: ").strip().lower() == 'exit':
         break
-
